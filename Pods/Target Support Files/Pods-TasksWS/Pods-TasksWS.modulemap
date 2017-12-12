@@ -1,0 +1,6 @@
+framework module Pods_TasksWS {
+  umbrella header "Pods-TasksWS-umbrella.h"
+
+  export *
+  module * { export * }
+}
